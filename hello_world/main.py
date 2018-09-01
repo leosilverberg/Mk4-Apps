@@ -13,3 +13,4 @@ ugfx.init()
 ugfx.clear()
 
 ugfx.text(5, 5, "Hello World!!!", ugfx.BLACK)
+ugfx.display_image(0, 0, "shared/nokia.png")
