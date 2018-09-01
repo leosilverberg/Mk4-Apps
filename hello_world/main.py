@@ -2,7 +2,7 @@
 
 ___name___         = "Hello World"
 ___license___      = "MIT"
-___dependencies___ = ["sleep", "app"]
+___dependencies___ = ["sleep", "app", "shared/nokia.png",]
 ___categories___   = ["EMF"]
 
 import ugfx, os, time, sleep, app
